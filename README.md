@@ -47,7 +47,7 @@ B 站的离线列表**不扫描磁盘目录**，它只读自己私有目录下�
 ## 用法
 
 ```bash
-git clone https://github.com/&lt;you&gt;/bili-cache-restore.git
+git clone https://github.com/Dou9527/bili-cache-restore.git
 cd bili-cache-restore
 
 python bili_restore.py --list      # 只列出现有记录，不碰任何东西
